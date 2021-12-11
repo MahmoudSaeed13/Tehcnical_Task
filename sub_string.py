@@ -15,6 +15,8 @@ def check_common_substring(x, y):
     # Return 'NO' if there are no common substrings
     if check == 0:
         return 'NO'
-
-# Printing the function return
-print(check_common_substring(S1,S2))
+# Check if the strings are the same or not and if there is any common substring and print the result
+if S1 == S2:
+    print('YES')
+else:
+    print(check_common_substring(S1,S2))
