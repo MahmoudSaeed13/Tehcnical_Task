@@ -27,13 +27,13 @@ must respect, and it performs some test cases on the API to asserts that everyth
 **The project is built using django rest framework and needs to install the library *djangorestframework***
 models.py, tests.py, urls.py, views.py
 when navigate inside the dir Technical_Project and then inside api you now can see the files where all the code is written
--[models.py](https://github.com/MahmoudSaeed13/Tehcnical_Task/blob/main/Technical_Project/api/models.py):    
+- [models.py](https://github.com/MahmoudSaeed13/Tehcnical_Task/blob/main/Technical_Project/api/models.py):    
 in this file the model Task is defined which has an id, title and state.
--[urls.py](https://github.com/MahmoudSaeed13/Tehcnical_Task/blob/main/Technical_Project/api/urls.py):  
+- [urls.py](https://github.com/MahmoudSaeed13/Tehcnical_Task/blob/main/Technical_Project/api/urls.py):  
 in this file all the paths in our project is defined.
--[views.py](https://github.com/MahmoudSaeed13/Tehcnical_Task/blob/main/Technical_Project/api/views.py):  
+- [views.py](https://github.com/MahmoudSaeed13/Tehcnical_Task/blob/main/Technical_Project/api/views.py):  
 in the views.py file implemented all the views , they are function based views. 
--[test.py](https://github.com/MahmoudSaeed13/Tehcnical_Task/blob/main/Technical_Project/api/tests.py):  
+- [test.py](https://github.com/MahmoudSaeed13/Tehcnical_Task/blob/main/Technical_Project/api/tests.py):  
 in tests.py built some test cases for our project to ensure and assert that it's working as needed.
 #### List of project urls:
 - **"/"** this url runs a ***GET*** request to show all the tasks in the database - returns an HTTP status 200 when runs without any problems and status 204 if there are no taks in the database
