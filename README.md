@@ -4,7 +4,7 @@ This is the code solutoin for the technical task for backend mentorship program 
 
 ## Description:
 
-This repo contains of two python files [absolute-difference.py](https://github.com/MahmoudSaeed13/Tehcnical_Task/blob/main/absolute-difference.py) and [sub_string.py] (https://github.com/MahmoudSaeed13/Tehcnical_Task/blob/main/sub_string.py) for the technical problems and a Django project for creating a public API allowing users to do normal CRUD operations tasks and change state based on API action with respect to task state machine as mentioned.
+This repo contains of two python files [absolute-difference.py](https://github.com/MahmoudSaeed13/Tehcnical_Task/blob/main/absolute-difference.py) and [sub_string.py](https://github.com/MahmoudSaeed13/Tehcnical_Task/blob/main/sub_string.py) for the technical problems and a Django project for creating a public API allowing users to do normal CRUD operations tasks and change state based on API action with respect to task state machine as mentioned.
 
 ### Part 1 : Technical Problems:
 In this part there is the solution for the two techncial problems **absolute difference** and **common substring**.
